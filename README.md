@@ -15,7 +15,7 @@ Todos os testes são feitos em ambiente simulado e controlado, sem fins malicios
 **1. Clonar o repositório**
 ```bash
 git clone https://github.com/MarianaTrufelli/Desafio-Simulando-Ransomware-e-Keylogger-em-Python-Ambiente-Controlado-.git
-cd NOME-DO-REPOSITORIO
+cd Desafio-Simulando-Ransomware-e-Keylogger-em-Python-Ambiente-Controlado-
 ```
 
 ---
